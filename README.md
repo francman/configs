@@ -1,0 +1,2 @@
+# configs
+settings for applications
